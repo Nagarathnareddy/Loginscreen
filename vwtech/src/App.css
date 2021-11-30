@@ -1,0 +1,230 @@
+body{
+  background-color:rgb(56,98,245);
+  background-attachment: fixed;
+}
+.rp
+{
+padding: 40px;
+position: relative;
+left: 92px;
+}
+.join
+{
+  font-size: 15px;
+  position: relative;
+  left: 220px;
+ bottom: 38px;
+}
+.username,.password,.sigin
+{
+padding: 8px;
+border-radius: 5px;
+width: 380px;
+height: 35px;
+margin: 10px;
+color:#9e9ea7 ;
+}
+.sigin
+{
+
+border-radius: 5px;
+width: 380px;
+height: 35px;
+text-align: center;
+background-color: rgb(56,98,245);
+color: whitesmoke;
+}
+.un,.psw
+{
+ padding: 10px;
+ font-size: 15px;
+ color: #9e9ea7 ;
+
+
+}
+.rm
+{
+  margin: 8px;
+  position: relative;
+  left: 5px;
+  background-color:rgb(56,98,245);
+}
+.para1,.login,.logpara
+{
+  margin: 10px;
+  
+
+}
+.para2
+{
+ margin: 15px;
+ position: relative;
+left: 5px;
+font-size: 15px;
+}
+.image
+{
+  width: 750px;
+  height: 760px;
+  position: relative;
+  right: 270px;
+  top: 140px;
+  border-radius: 5px;
+}
+.col2
+{
+ background-color: whitesmoke;
+position: relative;
+left:50px;
+top: 140px;
+height: 760px;
+border-radius: 5px;
+
+}
+.login{
+  font-size: 25px;
+}
+.logpara
+{
+  font-size: 15px;
+}
+.para1
+{
+  font-size:13px ;
+  color:#9e9ea7; ;
+}
+.c2
+{
+ width: 550px;
+position: relative;
+right:345px;
+
+
+}
+.main
+{
+  border-radius: 5px;
+ 
+}
+.login
+{
+position: absolute;
+top: 160px;
+left: 80px;
+
+}
+.logpara
+{
+  position: absolute;
+  top: 250px;
+  left: 80px;
+}
+.para1
+{
+  position: absolute;
+  top: 290px;
+  left: 80px;
+}
+.un
+{
+  position: absolute;
+  top: 330px;
+  left: 80px;
+}
+.username
+{
+  position: absolute;
+  top: 370px;
+  left: 80px;
+}
+.psw
+{
+  position: absolute;
+  top: 410px;
+  left: 80px;
+}
+.password
+{
+  position: absolute;
+  top: 450px;
+  left: 80px;
+}
+.rm{
+  position: absolute;
+  top: 490px;
+  left: 90px;
+  margin: 10px;
+ 
+  
+}
+.rem
+{
+  position: absolute; 
+  top: 490px;
+  left: 115px;
+  margin: 5px;
+  font-size: 15px;
+ 
+}
+.rp{
+  position: absolute; 
+  top: 450px;
+  left: 300px;
+  margin: 5px;
+}
+.sigin
+{
+  position: absolute; 
+  top: 530px;
+  left: 80px;
+}
+.para2
+{
+  position: absolute; 
+  top: 570px;
+  left: 80px;
+}
+.join{
+  position: absolute; 
+  top: 585px;
+  left: 290px;
+}
+.secmain
+{
+  position: absolute;
+  right: 40px;
+}
+#mail
+{
+  width: 30px;
+  height: 10px;
+}
+.img{
+  width: 650px;
+  height: 950px;
+  position: absolute;
+  left: 143px;
+  top: 35px;
+}
+.reg
+{
+  height:950px;
+  background-color: whitesmoke;
+ position: relative;
+ right: 100px;
+ top: 35px;
+  
+
+}
+.bgfor2
+{
+  background-color: rgb(63, 236, 236);
+}
+.for
+{
+  background-color: whitesmoke;
+  height: 500px;
+
+
+ 
+}
